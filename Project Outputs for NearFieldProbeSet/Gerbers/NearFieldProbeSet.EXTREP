@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: NearFieldProbeSet.GBR   02/08/2024  02:26:17
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.G1                 Int1                                    
+.G2                 Int2 (SIG)                              
+.G3                 Int3                                    
+.G4                 Int4                                    
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GBO                Bottom Overlay                          
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GTP                Top Paste                               
+.GBP                Bottom Paste                            
+.GM                 Profile                                 
+.GBR1               Non-plated through-hole drill file      
+.GBR2               Plated through-hole drill file          
+------------------------------------------------------------------------------------------
